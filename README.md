@@ -20,13 +20,6 @@ Built for senior citizens and first-time travellers who need quick, clear inform
 
 Kotlin, XML, Android TTS API, local JSON data
 
----
-
-## Run Locally
-
-```bash
-git clone https://github.com/justsakshi/NammaPlatform.git
-```
 
 Open in Android Studio and run on any device or emulator (API 21+).
 
